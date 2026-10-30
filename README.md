@@ -1,7 +1,7 @@
 # User Service
 
 ## 🚀 Introduction
-The User Service is a microservice responsible for managing user information. It provides APIs for creating, retrieving, updating, and deleting user details.
+The User Service is a microservice responsible for managing user information. It provides APIs for creating, retrieving, updating, and deleting their updates.
 
 ## 📚 Table of Contents
 - [📂 Project Structure](#-project-structure)
